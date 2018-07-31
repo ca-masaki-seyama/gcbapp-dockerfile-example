@@ -1,3 +1,3 @@
 FROM alpine
-COPY helloworld.sh /
+COPYA helloworld.sh /
 CMD ["/helloworld.sh"]
